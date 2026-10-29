@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+<title id="title">File Identifier — File type and text language detection</title>
+<desc id="desc">Distributed Applications course project using Java and Spring Boot. A file upload or URL is analysed for MIME type and text language. The example card illustrates an English PDF; it is not a screenshot of a test run.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#14182d"/><stop offset="1" stop-color="#252545"/></linearGradient></defs>
+<rect width="1280" height="520" rx="22" fill="url(#bg)"/>
+<circle cx="1210" cy="30" r="285" fill="#3b365f" opacity=".5"/>
+<path d="M760 0V520" stroke="#52516d" stroke-opacity=".45"/>
+<g font-family="Arial,sans-serif">
+<text x="62" y="70" fill="#f1bc85" font-size="14" font-weight="700" letter-spacing="2.5">DISTRIBUTED APPLICATIONS · COURSE PROJECT</text>
+<text x="62" y="170" fill="#f5f3fa" font-size="68" font-weight="700">File Identifier</text>
+<text x="65" y="232" fill="#cac8dd" font-size="27">File type identification.</text>
+<text x="65" y="272" fill="#cac8dd" font-size="27">Language detection from document text.</text>
+<text x="65" y="332" fill="#b9b5cb" font-size="20">Upload a file or provide its URL.</text>
+<text x="65" y="436" fill="#f5f3fa" font-size="22" font-weight="700">Java · Spring Boot · Apache Tika</text>
+<text x="65" y="472" fill="#b9b5cb" font-size="19">Spring Cloud · Docker Compose</text>
+<rect x="812" y="105" width="400" height="350" rx="18" fill="#25273f" stroke="#6d627e"/>
+<text x="838" y="145" fill="#b9b5cb" font-size="14" font-weight="700" letter-spacing="1.5">EXAMPLE · ENGLISH PDF</text>
+<path d="M839 174H869L882 187V220H839Z M869 174V187H882" fill="none" stroke="#f1bc85" stroke-width="2"/>
+<text x="905" y="205" fill="#f5f3fa" font-size="22" font-weight="700">document.pdf</text>
+<path d="M838 245H1186" stroke="#5b536e"/>
+<text x="838" y="282" fill="#b9b5cb" font-size="16">MIME type</text>
+<text x="838" y="316" fill="#f1bc85" font-size="24" font-weight="700">application/pdf</text>
+<text x="838" y="367" fill="#b9b5cb" font-size="16">Text language</text>
+<text x="838" y="402" fill="#beb9f1" font-size="25" font-weight="700">en</text>
+</g></svg>
